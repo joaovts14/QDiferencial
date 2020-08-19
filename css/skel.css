@@ -29,7 +29,7 @@
 	
 		.container.small {
 			/* width: (containers) * 0.75; */
-			width: 900x;
+			width: 900px;
 		}
 
 		.container.big {
@@ -67,10 +67,6 @@
 	.\-3u { margin-left: 25% }
 	.\-2u { margin-left: 16.6666666667% }
 	.\-1u { margin-left: 8.3333333333% }
-	.servicos-home {
-		width: 190px;
-	}
-	
 
 	/* Rows */
 
